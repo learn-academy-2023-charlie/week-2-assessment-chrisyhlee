@@ -8,10 +8,10 @@
 // --------------------1) What will this log?
 
 const cohort = "Charlie 2023"
-// console.log(cohort.split(""))
+console.log(cohort.split(""))
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: ["Charlie", "2023"]
+// b) Verify and explain: ['C', 'h', 'a', 'r', 'l', 'i', 'e', ' ', '2', '0', '2', '3'] was the actual return. I was wrong because ...
 
 // --------------------2) What will this log?
 
